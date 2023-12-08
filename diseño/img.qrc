@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="a">
+    <file>imgs/reload.png</file>
+    <file>imgs/notification.png</file>
+    <file>imgs/salir.webp</file>
+    <file>imgs/addicon.png</file>
+    <file>imgs/check.png</file>
+    <file>imgs/iconopelicula.png</file>
+    <file>imgs/usuario.png</file>
+    <file>imgs/logo.png</file>
+    <file>imgs/Fondo.jpg</file>
+  </qresource>
+</RCC>
